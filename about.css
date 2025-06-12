@@ -1,0 +1,10 @@
+.bg-primary{
+  background-color: rgb(215, 213, 213) !important;
+}
+p{
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+.about-txt{
+  padding: 30px;
+}
