@@ -1,0 +1,20 @@
+.contact-txt{
+    text-align: center;
+}
+form{
+    /* background-color: aquamarine; */
+    width: 700px;
+    margin-bottom: 20px;
+    margin-left: 25%;
+    box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
+
+}
+.name{
+    margin-right: 15px;
+}
+.btn-danger{
+    margin-left: 40%;
+}
+.form-control{
+    /* width: 100%; */
+}
